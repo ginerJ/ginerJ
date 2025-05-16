@@ -6,5 +6,5 @@ I'm an argentinian coder who likes experimenting with game dev, 3d modeling and 
 <br>
 
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/Language-C-blue?style=flat-square&logo=cplusplus)
