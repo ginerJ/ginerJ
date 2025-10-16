@@ -14,4 +14,4 @@ Unserious, Codes, Experiments with Vanguart Tech, Also Does Low Poly Modeling & 
 ![HTML5](https://img.shields.io/badge/Language-HTML5-e34f26?style=flat-square&logo=html5&logoColor=fa7f5e)
 ![CSS3](https://img.shields.io/badge/Language-CSS3-1572b6?style=flat-square&logo=csswizardry&logoColor=6cbefa)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginerJ&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginerJ&layout=compact&theme=dark)
