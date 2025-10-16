@@ -1,6 +1,4 @@
-# 👋 Greetings!
-
-I'm an argentinian coder who likes experimenting with game dev, 3d modeling and vanguard technologies.
+Unserious, Codes, Experiments with Vanguart Tech, Also Does Low Poly Modeling & Pixel Art.
 
 <b>Fluent on:<b>
 
