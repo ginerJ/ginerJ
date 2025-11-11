@@ -1,4 +1,4 @@
-Unserious, Codes, Experiments with Vanguart Tech, Also Does Low Poly Modeling & Pixel Art.
+I Codes, I Experiments with Vanguart Tech, I Also Do Low Poly Modeling & Pixel Art.
 
 <b>Fluent on:<b>
 
