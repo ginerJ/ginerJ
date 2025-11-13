@@ -1,17 +1,9 @@
-I Codes, I Experiments with Vanguart Tech, I Also Do Low Poly Modeling & Pixel Art.
+I Code, I Also Do Low Poly Modeling & Pixel Art.
 
-<b>Fluent on:<b>
+[<img src="https://img.shields.io/badge/Twitter-@themodderG-1DA1F2?logo=x&logoColor=white&style=flat&labelColor=111" height="20" />](https://x.com/themodderG)
+[<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fguilds%2F1086809193878655057%2Fwidget.json&query=presence_count&style=flat&logo=discord&logoColor=white&label=Discord&color=5865F2&labelColor=111" height="20" />](https://discord.gg/EeNkjGZY37)
 
-![Python](https://img.shields.io/badge/Language-Python-3776ab?style=flat-square&logo=python&logoColor=52a1e3)
-![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=openjdk&logoColor=orange)
-![C](https://img.shields.io/badge/Language-C-0b39a3?style=flat-square&logo=c&logoColor=89abff)
-![Haskell](https://img.shields.io/badge/Language-Haskell-7d3893?style=flat-square&logo=haskell&logoColor=df81ff)
-
-<b>Still learning:<b>
-
-![C++](https://img.shields.io/badge/Language-C++-blue?style=flat-square&logo=c%2B%2B&logoColor=39b6ff)
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=f7df1e)
-![HTML5](https://img.shields.io/badge/Language-HTML5-e34f26?style=flat-square&logo=html5&logoColor=fa7f5e)
-![CSS3](https://img.shields.io/badge/Language-CSS3-1572b6?style=flat-square&logo=csswizardry&logoColor=6cbefa)
+[<img src="https://img.shields.io/badge/CurseForge-Profile-F16436?logo=curseforge&logoColor=white&style=flat&labelColor=111" height="20" />](https://www.curseforge.com/members/YOUR_USERNAME/projects)
+[<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube&logoColor=white&style=flat&labelColor=111" height="20">](https://www.youtube.com/@TheModderG)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginerJ&layout=compact&theme=dark)
